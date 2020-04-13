@@ -9,4 +9,4 @@ An app that allows you to track your finances on the go
 
     * input deposits
     * input expenses
-    * track expenses
+    * track all transactions
