@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSd2x0JZkzDRjLN8vIYdEykFqRA-BIWGkoBYHHNSp9HWlW8Gu1h&usqp=CAU");
 }
 
 button, input {
@@ -48,4 +49,12 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+.background {
+  background-color: green;
+  opacity: 90%;
+  padding-top: 10px;
+  width: auto;
+  height: auto;
 }
