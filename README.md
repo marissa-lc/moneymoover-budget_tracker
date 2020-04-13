@@ -10,3 +10,5 @@ An app that allows you to track your finances on the go
     * input deposits
     * input expenses
     * track all transactions
+
+[GitHub](https://github.com/marissa-lc/moneymoover-budget_tracker.git)
